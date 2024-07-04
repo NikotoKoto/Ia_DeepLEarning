@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pillow
+numpy
+scikit-learn
+joblib
+requests
+tensorflow
+imbalanced-learn
+openai
